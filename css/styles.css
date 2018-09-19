@@ -21,7 +21,7 @@ img {
 /* Layout */
 
 .container {
-  margin: 0 20px;
+  margin: 0 25px;
 }
 
  
@@ -66,6 +66,7 @@ p {
   color: #707380;
   font-weight: 540;
   line-height: 1.5;
+  font-size: 1em;
 }
 
 .button {
@@ -85,7 +86,34 @@ p {
 }
 
 .main img {
-  margin-top: 40px;
+  margin: 40px 0;
 }
 
 /* Section - Work Guide */
+
+.work-guide-image {
+  width: 70px;
+}
+
+.work-guide h2 {
+  font-size: 1.7em;
+  color: #323648;
+}
+.work-guide h3 {
+  font-family: 'Sans';
+  color: #323648;
+  font-size: 1em;
+}
+
+.work-guide-link {
+  text-decoration: none;
+  text-align: center;
+  font-size: 0.9em;
+  color: #3f46ad;
+  font-weight: 550;
+  font-family: 'Sans';
+  border-bottom: 1px solid #3f46ad;
+  display: inline-block;
+}
+
+/*  De aquí para arriba lo que hizo Raúl */
